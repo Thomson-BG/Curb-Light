@@ -1,0 +1,25 @@
+# Arduino build files
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+*.d
+*.o
+
+# Fritzing backups and autosave
+*.fz~
+*.fz.bak
+*.autosave
+
+# VS Code workspace
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# PDF/Office temp
+~$*
